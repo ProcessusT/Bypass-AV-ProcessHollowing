@@ -1,3 +1,17 @@
+Scripts permettant de contourner la protection antivirale de Windows Defender via la technique de Process Hollowing avec une injection de shellcode préalablement obfusqué avec un fonction XOR.
+
+
+
+Ces derniers ont été utilisés dans un lab d'entrainement au pentest et ne sont pas prévus pour être utilisés en dehors de ce cadre.
+
+
+
+<p align="center">
+    Ma vidéo sur le sujet : <a href="https://youtu.be/CTkbSiOBi58"><strong>https://youtu.be/CTkbSiOBi58</strong></a>
+  </p>
+
+
+
 <h3 align="center">Bypass-AV-ProcessHollowing</h3>
 
   <p align="center">
