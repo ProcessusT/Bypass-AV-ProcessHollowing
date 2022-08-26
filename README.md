@@ -4,11 +4,17 @@ Scripts permettant de contourner la protection antivirale de Windows Defender vi
 
 Ces derniers ont été utilisés dans un lab d'entrainement au pentest et ne sont pas prévus pour être utilisés en dehors de ce cadre.
 
-
+<br /><br />
+-----------------------------------------------------
+<br /><br />
 
 <p align="center">
     Ma vidéo sur le sujet : <a href="https://youtu.be/CTkbSiOBi58"><strong>https://youtu.be/CTkbSiOBi58</strong></a>
   </p>
+
+<br /><br />
+-----------------------------------------------------
+<br /><br />
 
 
 
@@ -65,3 +71,22 @@ set lport <PORT>
 exploit
 ```
 10. Exécuter le fichier ProcessHollowing.exe sur le poste cible puis savourer un délicieux cookie aux pépites de chocolat :)
+
+
+
+
+-----------------------------------------------------------------------------------
+
+
+
+
+<p align="center">
+    Le lien de mon blog : <a href="https://lestutosdeprocessus.fr"><strong>https://lestutosdeprocessus.fr</strong></a>
+    <br />
+    <br />
+    Le lien pour rejoindre le serveur Discord : <a href="https://discord.gg/JJNxV2h"><strong>https://discord.gg/JJNxV2h</strong></a>
+</p>
+
+
+
+ 
